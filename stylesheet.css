@@ -2,8 +2,7 @@ html {
   font-family: 'Josefin Sans', sans-serif;
 }
 
-img{
+.headerimage {
   width: 720px;
   height: auto;
-  object-fit: scale-down;
 }
