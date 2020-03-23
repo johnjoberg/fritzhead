@@ -3,12 +3,14 @@ html {
 }
 
 #headerimage {
+  box-sizing: border-box;
   width:100%;
   height: 100%;
   object position: top;
 }
 
 #p3image {
+  box-sizing: border-box;
   width: 50%;
   height: 50%;
   padding: 10px;
