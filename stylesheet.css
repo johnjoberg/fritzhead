@@ -16,5 +16,7 @@ html {
 
 h2, p {
   color: seagreen;
+  width: 240px;
+  height: 320px;
   padding: 10px;
 }
