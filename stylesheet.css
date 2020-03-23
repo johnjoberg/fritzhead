@@ -8,6 +8,7 @@ html {
   height: 100px;
   max-height: 150px;
   object-position: top;
+  padding: 50px;
 }
 
 .p3image {
@@ -20,7 +21,7 @@ html {
 
 h2, p {
   color: slategrey;
-  width: 75px;
-  height: 60px;
+  width: 750px;
+  height: 860px;
   padding: 20px;
 }
