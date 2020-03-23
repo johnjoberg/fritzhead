@@ -13,3 +13,7 @@ html {
   width: 120px;
   height:100px;
 }
+
+h2, p {
+  font-color: white;
+}
