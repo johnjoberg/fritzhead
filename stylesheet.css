@@ -9,13 +9,13 @@ html {
 }
 
 #p3image {
-  width: 75%;
-  height:75%;
+  width: 20%;
+  height:20%;
   padding: 10px;
   object position: bottom center;
 }
 
 h2, p {
   color: seagreen;
-  padding: 40px;
+  padding: 15px;
 }
