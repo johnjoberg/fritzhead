@@ -4,8 +4,8 @@ html {
 
 .headerimage {
   max-width: 150px;
-  width:120px;
-  height: 100px;
+  width:10%;
+  height: 10%;
   max-height: 150px;
   object-position: top;
   padding: 50px;
@@ -13,8 +13,8 @@ html {
 }
 
 .p3image {
-  width: 50%;
-  height:25%;
+  width: 5%;
+  height:5%;
   resize: auto;
   object-position: bottom;
   padding: 10px;
@@ -22,5 +22,5 @@ html {
 
 h2, p {
   color: seagreen;
-  padding: 5px;
+  padding: 10px;
 }
