@@ -7,14 +7,16 @@ html {
   width:120px;
   height: 100px;
   max-height: 150px;
+  position: top;
 }
 
 .p3image {
   width: 120px;
   height:100px;
   padding: 50px 100px;
+  position: bottom;
 }
 
 h2, p {
-  color: white;
+  color: yellow;
 }
