@@ -14,13 +14,13 @@ html {
 
 .p3image {
   width: 50%;
-  height:80px;
+  height:25%;
   resize: auto;
   object-position: bottom;
   padding: 10px;
 }
 
 h2, p {
-  color: slategrey;
-  padding: 20px;
+  color: seagreen;
+  padding: 5px;
 }
