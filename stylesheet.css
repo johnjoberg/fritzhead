@@ -3,11 +3,13 @@ html {
 }
 
 .headerimage {
-  width: 25%;
-  height: auto;
+  max-width: 150px;
+  width:120px;
+  height: 100px;
+  max-height: 150px;
 }
 
 .p3image {
-  width: 25%;
-  height:25%;
+  width: 120px;
+  height:100px;
 }
