@@ -9,11 +9,12 @@ html {
   max-height: 150px;
   object-position: top;
   padding: 50px;
+  resize: auto;
 }
 
 .p3image {
-  width: 20px;
-  height:10px;
+  width: 50%;
+  height:80px;
   resize: auto;
   object-position: bottom;
   padding: 10px;
