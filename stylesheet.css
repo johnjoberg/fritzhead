@@ -7,16 +7,14 @@ html {
   width:10%;
   height: 10%;
   max-height: 150px;
-  object-position: top;
+  object-position: center top;
   padding: 50px;
-  resize: auto;
 }
 
 #p3image {
   width: 5%;
   height:5%;
-  resize: auto;
-  object-position: bottom;
+  object-position: left bottom;
   padding: 10px;
 }
 
