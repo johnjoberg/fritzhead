@@ -1,3 +1,8 @@
 html {
   font-family: 'Josefin Sans', sans-serif;
 }
+
+img.resize {
+  width: 720px;
+  height: auto;
+}
