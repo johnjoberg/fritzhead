@@ -11,12 +11,16 @@ html {
 }
 
 .p3image {
-  width: 120px;
-  height:100px;
+  width: 20px;
+  height:10px;
   resize: auto;
   object-position: bottom;
+  padding: 10px;
 }
 
 h2, p {
   color: slategrey;
+  width: 75px;
+  height: 60px;
+  padding: 20px;
 }
