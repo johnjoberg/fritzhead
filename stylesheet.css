@@ -3,18 +3,14 @@ html {
 }
 
 #headerimage {
-  max-width: 150px;
-  width:10%;
-  height: 10%;
-  max-height: 150px;
-  object-position: center top;
+  width:100%;
+  height: 100%:
   padding: 50px;
 }
 
 #p3image {
-  width: 5%;
-  height:5%;
-  object-position: left bottom;
+  width: 75%;
+  height:75%;
   padding: 10px;
 }
 
