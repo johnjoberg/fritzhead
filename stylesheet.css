@@ -12,9 +12,9 @@ html {
 .p3image {
   width: 120px;
   height:100px;
-  padding: 50px
+  padding: 50px 100px;
 }
 
 h2, p {
-  font-color: white;
+  color: white;
 }
