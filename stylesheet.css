@@ -23,6 +23,12 @@ html {
   object position: bottom;
 }
 
+h1 {
+  text-align: center;
+  color: slategrey;
+  padding: 10px;
+}
+
 head, h2, p {
   text-align: center;
   color: seagreen;
