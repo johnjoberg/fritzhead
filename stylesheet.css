@@ -24,9 +24,7 @@ html {
 }
 
 head, h2, p {
-  align-items: center;
   text-align: center;
-  justify-content: center;
   color: seagreen;
   padding: 10px;
 }
