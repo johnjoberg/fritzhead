@@ -4,6 +4,8 @@ html {
 
 #headerimage {
   align-items: center;
+  justify-content: center;
+  display: flex;
   box-sizing: border-box;
   width:100%;
   height: 100%;
@@ -12,6 +14,8 @@ html {
 
 #p3image {
   align-items: center;
+  justify-content: center;
+  display: flex;
   box-sizing: border-box;
   width: 100%;
   height: 100%;
