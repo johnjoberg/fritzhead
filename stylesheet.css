@@ -3,6 +3,7 @@ html {
 }
 
 #headerimage {
+  align-items: center;
   justify-content: center;
   box-sizing: border-box;
   width:100%;
@@ -11,6 +12,7 @@ html {
 }
 
 #p3image {
+  align-items: center;
   justify-content: center;
   box-sizing: border-box;
   width: 100%;
@@ -20,6 +22,7 @@ html {
 }
 
 head, h2, p {
+  align-items: center;
   justify-content: center;
   color: seagreen;
   padding: 10px;
